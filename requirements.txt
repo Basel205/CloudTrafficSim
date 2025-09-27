@@ -1,0 +1,21 @@
+# Core scientific stack
+numpy==1.26.4
+pandas==2.2.2
+scikit-learn==1.5.1
+xgboost==2.1.1
+
+# Deep learning (optional, comment if not used)
+tensorflow==2.16.2
+torch==2.3.1
+
+# API services
+flask==3.0.3
+fastapi==0.115.0
+uvicorn[standard]==0.30.3
+requests==2.32.3
+
+# Monitoring & analysis
+psutil==6.0.0
+matplotlib==3.9.2
+seaborn==0.13.2
+jupyterlab==4.2.4
